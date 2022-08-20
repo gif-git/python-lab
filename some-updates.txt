@@ -18,3 +18,9 @@ Part B
 9th working fine  # l this is L not one
 10th working fine # if i==n-1:  # 1 number one
 
+12th working but we need to check
+13th working fine 
+14th working fine 
+
+11th not working fine
+15th not working fine
