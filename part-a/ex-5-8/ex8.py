@@ -1,0 +1,5 @@
+t=(3,4,5,6,7,19,70,'good','bad',89.76)
+l=len(t)
+print('The given tuple is:',t)
+print('First half tuple values are:',t[:l//2])
+print('Second half tuple values are:',t[l//2:])

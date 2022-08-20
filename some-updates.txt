@@ -1,0 +1,20 @@
+Exercise: Status
+Part A
+1.1 working fine
+1.2 working fine
+1.2 working fine
+1.2 working fine
+2.2 working fine
+3.1 working fine
+3.2 working fine
+4.1 working fine
+4.2 working fine
+5th working fine
+6th working fine
+7.1 working fine
+7.2 working fine
+8th working fine 
+Part B
+9th working fine  # l this is L not one
+10th working fine # if i==n-1:  # 1 number one
+
