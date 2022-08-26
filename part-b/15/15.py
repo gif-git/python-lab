@@ -11,7 +11,7 @@ with open('file1.txt','r')as f: # Opening file1 in read mode
                 print('The content of file2 is:\n',s.read())
             with open('file1.txt','r')as f:
                 d=f.read()
-                l=d.split()
+                i=d.split()
                 count=0
                 for i in l:
                     count=count+1
