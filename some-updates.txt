@@ -25,3 +25,10 @@ Part B
 
 11th not working
 15th not working
+
+Note:
+How to run Python Script in IDLE 3 | Python Shell | Command Prompt 
+https://www.youtube.com/watch?v=2x7SpwR6Zr0&ab_channel=TechWebDocs
+
+Version: Python 3.7.3 (Following download link:)
+https://www.python.org/downloads/release/python-373/
