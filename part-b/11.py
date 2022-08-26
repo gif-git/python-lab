@@ -11,6 +11,6 @@ for i in range(n):
         if min > a[j]:
             min=a[j]
             t=j #Gives index position of the next smallest value
-            a[t]=a[i]
-            a[i]=min
-            print('The sorted list is: ',a)
+    a[t]=a[i]
+    a[i]=min
+    print('The sorted list is: ',a)
