@@ -6,7 +6,7 @@ def fib(n):
  else:
     return(fib(n-1)+fib(n-2))
 #Main program
-n=int(input('Enter the value ofn:'))
+n=int(input('Enter the value of:'))
 if n<=0:
     print('Enter a positive integer')
 print('The Fibonacci sequence for {} is:'.format(n))
