@@ -1,3 +1,4 @@
+# Enter a string (Python is user friendly)
 s=input("Enter a string:")
 vowels=0
 characters=0

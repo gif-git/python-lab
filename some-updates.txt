@@ -32,3 +32,9 @@ https://www.youtube.com/watch?v=2x7SpwR6Zr0&ab_channel=TechWebDocs
 
 Version: Python 3.7.3 (Following download link:)
 https://www.python.org/downloads/release/python-373/
+
+Part a output in google doc:
+https://docs.google.com/document/d/1rnq09vAlcKQV4briN5LIKcJRv8DCwfyQy7ZffNmplfA/edit?usp=sharing
+
+part a code in google doc:
+https://docs.google.com/document/d/1Or64THFOqawmB-fMGPH53r-GzRnLv1nGPLQjvMIswPI/edit?usp=sharing

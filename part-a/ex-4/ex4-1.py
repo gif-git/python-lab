@@ -1,3 +1,4 @@
+# Enter first number 100, second number 200
 n1=int(input('Enter the first number:'))
 n2=int(input('Enter the second number:'))
 print('The numbers which are divisible by 3 but not multiple of 5 are:')

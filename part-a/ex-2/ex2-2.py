@@ -1,3 +1,5 @@
+# Enter the first value 100
+# Enter the second value as 10000
 import math
 n1=int(input('Enter first number in the range: '))
 n2=int(input('Enter second number in the range: '))

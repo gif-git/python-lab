@@ -1,4 +1,5 @@
-# min1(one) max1(one)
+# min1(1 is number one) max1(number one) not l (L)
+# Enter the total number: 4 and give enter then type folloing number one by one 87 90 32 5  
 L=[]
 N=int(input('Enter the total number: '))
 print('Enter the numbers one by one')

@@ -1,3 +1,5 @@
+# Enter the first value 89
+# Second value 289
 a=int(input('Enter the value of a: ')) 
 b=int(input('Enter the value of b: ')) 
 a1=a

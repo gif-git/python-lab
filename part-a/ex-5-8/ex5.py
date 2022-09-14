@@ -1,3 +1,6 @@
+# Enter the string (good morning) first
+# Rerun the code and give (go)
+# Rerun the code and give (good)
 s=input('Enter a string: ')
 sl=s
 l=len(s)

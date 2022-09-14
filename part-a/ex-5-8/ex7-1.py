@@ -1,3 +1,4 @@
+# Enter the first value 5 and enter the following number 89 2 78 90 67
 L=[]
 N=int(input("Enter the total number of list elements:"))
 print('Enter the elements one by one:')
