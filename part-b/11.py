@@ -13,4 +13,4 @@ for i in range(n):
             t=j #Gives index position of the next smallest value
     a[t]=a[i]
     a[i]=min
-    print('The sorted list is: ',a)
+print('The sorted list is: ',a)

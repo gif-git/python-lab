@@ -5,10 +5,10 @@ m=len(a)
 n=len(b)
 for i in range(m):
     for j in range(len(b)):
-                   for k in range(n):
-                       c[i][j]+=a[i][k]*b[k][j]
-                   print('The product of the two given matrix is: ')
-                   for i in range(m):
-                       for j in range(len(b)):
-                           print(c[i][j],end='')
-                           print()
+        for k in range(n):
+            c[i][j]+=a[i][k]*b[k][j]
+print('The product of the two given matrix is: ')
+for i in range(m):
+    for j in range(len(b)):
+        print(c[i][j],end='')
+        print()
